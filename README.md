@@ -14,6 +14,8 @@ development/testing flow. Here are a few things I wish to do soon:
 
 * Check if the library is already included before appending the `#include`
 
+* Create an adequate mapping to the `InsertIncludes` function.
+
 # License
 
 Licensed under MIT, see **LICENSE** file.
